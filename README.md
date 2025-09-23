@@ -102,7 +102,7 @@ for i in range(len(remaining_matches_master)):
         title_history[t].append(tp[t])
 
 # -------------------------
-#Plot chart (one line per team)
+#Plot chart 
 # -------------------------
 colors = ["blue", "green", "yellow", "red"]
 plt.figure(figsize=(12,6))
